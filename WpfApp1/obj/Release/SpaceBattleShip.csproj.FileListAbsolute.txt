@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\bin\Release\WpfApp1.exe.config
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\bin\Release\WpfApp1.exe
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\bin\Release\WpfApp1.pdb
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\App.g.cs
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\WpfApp1_Content.g.cs
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\WpfApp1_MarkupCompile.lref
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\App.baml
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\WpfApp1.g.resources
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\SpaceBattleShip.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\WpfApp1.exe
+C:\Users\User\Desktop\Для резюме\SpaceBattleShip\WpfApp1\obj\Release\WpfApp1.pdb
